@@ -14,8 +14,7 @@
     <a href="https://rocketseat.com.br">
         <img alt="Made by Rocketseat" src="https://img.shields.io/badge/made%20by-Rocketseat-%23F7DF1E">
     </a>
-
-    <img alt="License" src="https://img.shields.io/badge/license-MIT-%23F7DF1E">
+    <img alt="License" src="https://img.shields.io/badge/license-MIT-%23F7DF1E" />
 </p>
 
 <p align="center">
